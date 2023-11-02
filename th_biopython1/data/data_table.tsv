@@ -1,2 +1,0 @@
-gene_id	gene_symbol	description	scientific_name	common_name	tax_id	genomic_range	orientation	location	gene_type	transcript_accession	transcript_name	transcript_length	transcript_cds_coords	protein_accession	isoform_name	protein_length	protein_name
-817432	PUB12	armadillo/beta-catenin repeat protein	Arabidopsis thaliana	thale cress	3702	NC_003071.7:12368220-12370420	-	chr 2	PROTEIN_CODING	NM_001336190.1		1949	NM_001336190.1:33-1781	NP_001318308.1		582	armadillo/beta-catenin repeat protein

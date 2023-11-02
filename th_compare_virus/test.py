@@ -13,3 +13,7 @@ print(standard_table)
 print("Stop codons: ", standard_table.stop_codons)
 print("Start codons: ", standard_table.start_codons)
 print(standard_table)
+
+from Bio import Align
+aligner = Align.PairwiseAligner()
+aligner = Align.PairwiseAligner(match_score=1.0)
