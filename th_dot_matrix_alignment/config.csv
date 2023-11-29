@@ -1,0 +1,6 @@
+input_sequence_1,input_sequence_2,score_matrix,window_size,threshold,graphic_title,graphic_subtitle,x_axis_title,y_axis_title,x1,x2,y1,y2,file_name
+virus_datasets/covid_sequences.fasta,virus_datasets/covid_sequences.fasta,score_matrix.csv,10,15,Covid vs Covid,Ma trận bộ gen,Covid,Covid,100,200,100,200,covid-ebola.png
+virus_datasets/covid_sequences.fasta,virus_datasets/ebola_sequence.fasta,score_matrix.csv,10,15,Covid vs Ebola,Ma trận bộ gen,Covid,Ebola,1,200,1,200,covid-ebola.png
+virus_datasets/covid_sequences.fasta,virus_datasets/hiv_sequence.fasta,,,12,Covid vs HIV,,,,,,,,covid-hiv.png
+virus_datasets/covid_sequences.fasta,virus_datasets/mers_sequence.fasta,,,,Covid vs Mers,,,,,,,,covid-mers.png
+virus_datasets/covid_sequences.fasta,virus_datasets/sars_sequence.fasta,,,,Covid vs Sars,,,,,,,,covid-sars.png
